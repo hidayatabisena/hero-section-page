@@ -185,17 +185,18 @@
 -- Add Media Queries rules for Responsive mobile view
 */
 
-@media(max-width: 991px) {
+@media(max-width: 798px) {
     .showcase .showcase header {
-        padding: 40px;
+        padding: 20px;
     }
 
     .text h2 {
         font-size: 2em;
+        margin-bottom: 10px;
     }
 
     .text h3 {
-        font-size: 2em;
+        font-size: 1.5em;
     }
 
     .text p {
